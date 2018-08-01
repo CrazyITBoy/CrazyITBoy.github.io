@@ -68,7 +68,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
+        title: "MY",
         href: "https://crazyitboy.github.io/"
     },{
         title: "CSDN·BY",
